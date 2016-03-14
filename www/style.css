@@ -1,0 +1,73 @@
+body {
+  background-image: url('http://solarsystem.nasa.gov/images/galleries/planet_9_art_1_1400.jpg');
+  -webkit-background-size: cover;
+     -moz-background-size: cover;
+       -o-background-size: cover;
+          background-size: cover;
+}
+
+
+.jumbotron {
+  background: rgba(255, 255, 255, 0.1);
+  /*color: #ffffff;*/
+  text-align:center;
+  color: yellow;
+}
+
+.row {
+  margin-right: -15px;
+  margin-left: -15px;
+  margin-top: +20px;
+  margin-bottom: +20px;
+}
+
+.introduction {
+  background: rgba(255, 255, 255, 0.1);
+  color: #ffffff;
+  text-align:center;
+  -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+.cligne {
+  text-decoration: blink;
+}
+    
+.presentation {
+  background: rgba(255, 255, 255, 0.1);
+  color: #ffffff;
+  text-align:left;
+  -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+.activites {
+  background: rgba(255, 255, 255, 0.1);
+  color: #ffffff;
+  text-align:left;
+  -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+.carousel-inner > .item > img {
+    margin: 0 auto;
+    width:auto;
+    height:600px;
+}
+
+.contact {
+  background: rgba(255, 255, 255, 0.1);
+  color: #ffffff;
+  text-align:left;
+  -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+.reunion {
+  background: rgba(255, 255, 255, 0.1);
+  color: #ffffff;
+  text-align:left;
+  -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
