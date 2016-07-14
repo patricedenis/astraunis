@@ -41,6 +41,14 @@ body {
     border-radius: 5px;
 }
 
+.nuitdesetoiles {
+  background: rgba(255, 255, 255, 0.1);
+  color: #ffffff;
+  text-align:left;
+  -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
 .activites {
   background: rgba(255, 255, 255, 0.1);
   color: #ffffff;
